@@ -11,4 +11,6 @@ Content
     :glob:
         
     notebook
+    notebook2
+
 
