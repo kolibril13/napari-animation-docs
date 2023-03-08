@@ -1,5 +1,8 @@
 # napari-animation-docs-mystjs
 
+[![Documentation Status](https://readthedocs.org/projects/napari-animation-docs/badge/?version=latest)](https://napari-animation-docs.readthedocs.io/en/latest/?badge=latest)
+
+https://napari-animation-docs.readthedocs.io/en/latest/
 
 ### dev instructions:
 
