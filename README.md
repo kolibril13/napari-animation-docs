@@ -11,4 +11,7 @@ https://napari-animation-docs.readthedocs.io/en/latest/
 .venv/bin/activate
 python -m pip install -U sphinx
 # sphinx-quickstart docs
+python -m pip install sphinx-copybutton nbsphinx furo
+python -m pip install ipykernel
+
 ```
