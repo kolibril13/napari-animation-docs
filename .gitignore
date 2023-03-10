@@ -6,6 +6,11 @@ media/
 # C extensions
 *.so
 
+rip_fracture_data/
+
+01_10.00Apx_particles.star
+01_10.00Apx.mrc
+
 # Distribution / packaging
 .Python
 build/
